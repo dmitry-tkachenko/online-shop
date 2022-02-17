@@ -1,0 +1,96 @@
+{
+  "goods": [
+    {
+      "id": "1",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn2.chrono24.com/images/uhren/21809872-ylidit9vyawpara97h2wwf2z-ExtraLarge.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn2.chrono24.com/images/uhren/21809872-ylidit9vyawpara97h2wwf2z-ExtraLarge.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn2.chrono24.com/images/uhren/21809872-ylidit9vyawpara97h2wwf2z-ExtraLarge.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn2.chrono24.com/images/uhren/21809872-ylidit9vyawpara97h2wwf2z-ExtraLarge.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://i.ebayimg.com/images/g/sxMAAOSwhZJf0tMs/s-l300.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://i.ebayimg.com/images/g/sxMAAOSwhZJf0tMs/s-l300.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://i.ebayimg.com/images/g/sxMAAOSwhZJf0tMs/s-l300.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://i.ebayimg.com/images/g/sxMAAOSwhZJf0tMs/s-l300.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn.watchcharts.com/listings/f4573219-a65a-418a-a021-c9d78b62977d?d=600x600"
+    },
+    {
+      "id": "10",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn.watchcharts.com/listings/f4573219-a65a-418a-a021-c9d78b62977d?d=600x600"
+    },
+    {
+      "id": "11",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn.watchcharts.com/listings/f4573219-a65a-418a-a021-c9d78b62977d?d=600x600"
+    },
+    {
+      "id": "12",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn.watchcharts.com/listings/f4573219-a65a-418a-a021-c9d78b62977d?d=600x600"
+    }
+  ],
+  "basket": [
+    {
+      "id": "6",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://i.ebayimg.com/images/g/sxMAAOSwhZJf0tMs/s-l300.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn.watchcharts.com/listings/f4573219-a65a-418a-a021-c9d78b62977d?d=600x600"
+    },
+    {
+      "id": "1",
+      "title": "Rolex Oyster Perpetual",
+      "description": "We buy at any time high quality watches and watch collections of various brands. We also offer the possibility of trade-in.",
+      "image": "https://cdn2.chrono24.com/images/uhren/21809872-ylidit9vyawpara97h2wwf2z-ExtraLarge.jpg"
+    }
+  ]
+}
